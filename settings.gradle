@@ -1,0 +1,3 @@
+include ':myDifferentSdkLibrary'
+include ':app'
+rootProject.name = "DifferentSdks"
